@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Python33\\python.exe",
+    "python.autoComplete.extraPaths": [
+
+        "C:/Python33/Lib/site-packages",
+        
+        "C:/Program Files/Side Effects Software/Houdini 18.5.408/python27/lib/site-packages",
+
+        "C:/Program Files/Side Effects Software/Houdini 18.5.408/python27/Scripts"
+        
+        ],
+}
