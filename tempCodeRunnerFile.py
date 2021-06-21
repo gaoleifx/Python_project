@@ -1,0 +1,1 @@
+pyuic5 -o E:/QTProject/03study/mainwindow.py E:/QTProject/03study/mainwindow.ui
