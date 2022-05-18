@@ -1,12 +1,10 @@
 {
-    "python.pythonPath": "C:\\Python39\\python.exe",
+    "python.pythonPath": "C:/Python/Python310/python.exe",
     "python.autoComplete.extraPaths": [
-
-        "C:/Python39/Lib/site-packages",
-        
-        "C:/Program Files/Side Effects Software/Houdini 18.5.408/python27/lib/site-packages",
-
-        "C:/Program Files/Side Effects Software/Houdini 18.5.408/python27/Scripts"
-        
+        "C:/Python/Python310/Lib/site-packages",
+        "D:/Program Files/Houdini19.0.589/python37/lib",
+        "D:/Program Files/Houdini19.0.589/python37/lib/site-packages",
+        "D:/Program Files/Houdini19.0.589/houdini/python3.7libs",
+        "D:/Program Files/Houdini19.0.589/python37/lib/site-packages-forced"
         ],
 }

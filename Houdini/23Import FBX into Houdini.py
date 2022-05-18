@@ -9,4 +9,4 @@ for fileName in filesNamesFBX:
     if not hou.node('/obj/{}_fbx'.format(fileName.replace('.fbx',''))):
         hou.hipFile.importFBX(fileFBX) 
     else:
-        print 'FBX {} EXISTS!'.format(fileName)
+        print('FBX {} EXISTS!'.format(fileName))

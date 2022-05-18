@@ -13,7 +13,7 @@ def checkConditions():
     Check if environment conditions allows to run script without errors
     '''
     if not FBX:  # If user select anything
-        print '>> Nothing selected! Select FBX subnetwork!'
+        print('>> Nothing selected! Select FBX subnetwork!')
         return 0
 
 def convert_FBX():
@@ -59,4 +59,4 @@ if checkConditions() != 0:
     FBX = FBX[0]
     # run conversion
     convert_FBX()
-    print '>> CONVERSION DONE!'
+    print('>> CONVERSION DONE!')
